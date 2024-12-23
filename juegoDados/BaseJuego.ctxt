@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BaseJuego
+comment1.params=nombreJuego\ nivel
+comment1.target=BaseJuego(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ iniciarJuego()
+comment3.params=
+comment3.target=int\ getNivel()
+comment4.params=nivel
+comment4.target=void\ setNivel(int)
+comment5.params=
+comment5.target=java.lang.String\ getNombreJuego()
+numComments=6

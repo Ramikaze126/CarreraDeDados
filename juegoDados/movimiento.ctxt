@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=movimiento
+comment1.params=
+comment1.target=movimiento()
+comment2.params=
+comment2.target=int\ lanzarDado()
+comment3.params=resultadoDado\ avanzar
+comment3.target=void\ realizarMovimiento(int,\ boolean)
+comment4.params=movimiento
+comment4.target=void\ agregarMovimiento(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ deshacerMovimiento()
+numComments=6

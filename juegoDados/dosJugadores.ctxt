@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=dosJugadores
+comment1.params=nombreJuego\ nivel
+comment1.target=dosJugadores(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ configurarJugadores()
+comment3.params=
+comment3.target=void\ iniciarJuego()
+comment4.params=
+comment4.target=void\ iniciarModoDosJugadores()
+comment5.params=
+comment5.target=java.lang.String\ getJugador1()
+comment6.params=
+comment6.target=java.lang.String\ getJugador2()
+numComments=7
